@@ -2,4 +2,4 @@
 
 * Dr. Doom
 * Red Skuler
-* Dr Herrera
+* Dr Dreed
